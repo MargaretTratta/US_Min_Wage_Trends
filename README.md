@@ -8,6 +8,9 @@
 	
 #### 3. Living_vs_Min_Wage_2022.ipynb
 - Uses "Effective_Rate_2022_Dollars.csv" (and all_living_wage.csv) to create the visualization
+
+### 4. Living_Wage_by_State_2022.ipynb
+- Uses "all_living_wage.csv" to create the visualization
 	
 #### 4. Historical_State_Min_Wage_ActualDollars.ipynb
 - Uses "State_Actual.csv" to create the visualization
