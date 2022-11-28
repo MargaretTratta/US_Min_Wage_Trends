@@ -9,11 +9,14 @@
 #### 3. Living_vs_Min_Wage_2022.ipynb
 - Uses "Effective_Rate_2022_Dollars.csv" (and all_living_wage.csv) to create the visualization
 
-### 4. Living_Wage_by_State_2022.ipynb
+#### 4. Living_Wage_by_State_2022.ipynb
 - Uses "all_living_wage.csv" to create the visualization
 	
-#### 4. Historical_State_Min_Wage_ActualDollars.ipynb
+#### 5. Historical_State_Min_Wage_ActualDollars.ipynb
 - Uses "State_Actual.csv" to create the visualization
+
+#### 6. Update_Minimum_Wage_data.ipynb
+- Provided by Kaggle dataset and adapted to include 2021 and 2022 minimum wage data
 	
 ### CSV files
 #### 1. Effective_Rate_2022_Dollars.csv
