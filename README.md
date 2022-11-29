@@ -1,7 +1,7 @@
 ### US_Min_Wage_Trends Data Prep and Visualizations
 #### 1. Data_prep_and_compile.ipynb
-- Acquires FIPS data and merges it with the file ""Minimum Wage Data_2022.csv"" (the one created from the R notebook) recalculates the effective min rate and effective min in 2022 dollars.
-- Saves the pertinent columns to two new CSV files (these new files are now used for the visualizations - eliminates any mixup between the previous two versions of "Minimum Wage Data_2022.csv"
+- Acquires FIPS data and merges it with the file ""Minimum Wage Data_2022.csv"" (the one created from the R notebook) recalculates the effective min rate and effective min in 2022 dollars
+- Saves the pertinent columns to two new CSV files used for the visualizations
 	
 #### 2. Historical_State_Min_Wage_2022Dollars.ipynb
 - Uses "Effective_Rate_2022_Dollars.csv" to create the visualization
