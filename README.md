@@ -43,3 +43,10 @@
 #### 4. Minimum Wage Data_2022.csv
 - Created by "Update_Minimum_Wage_data.ipynb" (updated R code from original Kaggle dataset)
 - US Minimum Wage by State from 1968 to 2020. (2020, December 31). Kaggle. Retrieved October 13, 2022, from https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+
+### Visual Vega Links
+- Links to the final interactive maps in Vega Editor
+	1. Historical State Minimum Wage in Actual Dollars
+	2. Historical State Minimum Wage in 2022 Dollars
+	3. 2022 Living Wage by State
+	4. 2022 Minimum Wage vs Living Wage
